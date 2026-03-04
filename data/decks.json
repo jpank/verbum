@@ -1,0 +1,49 @@
+{
+  "decks": [
+    {
+      "id": "biblical-nouns",
+      "name": "Biblical Nouns",
+      "namePl": "Rzeczowniki biblijne",
+      "description": "Core nouns from Scripture and theology",
+      "cardCount": 30,
+      "category": "vocabulary",
+      "icon": "\ud83d\udcd6"
+    },
+    {
+      "id": "biblical-verbs",
+      "name": "Biblical Verbs",
+      "namePl": "Czasowniki biblijne",
+      "description": "Key action words from the Bible",
+      "cardCount": 30,
+      "category": "vocabulary",
+      "icon": "\u270d\ufe0f"
+    },
+    {
+      "id": "liturgical-phrases",
+      "name": "Liturgical Phrases",
+      "namePl": "Frazy liturgiczne",
+      "description": "Common phrases used in liturgy",
+      "cardCount": 25,
+      "category": "vocabulary",
+      "icon": "\u26ea"
+    },
+    {
+      "id": "lent-vocabulary",
+      "name": "Lent Vocabulary",
+      "namePl": "S\u0142ownictwo wielkopostne",
+      "description": "Words specific to Lenten season",
+      "cardCount": 30,
+      "category": "vocabulary",
+      "icon": "\u271d\ufe0f"
+    },
+    {
+      "id": "mass-responses",
+      "name": "Mass Responses",
+      "namePl": "Odpowiedzi mszalne",
+      "description": "Congregation responses during Mass",
+      "cardCount": 25,
+      "category": "mass",
+      "icon": "\ud83d\udd6f\ufe0f"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "cards": [
+    { "id": "lp-001", "deckId": "liturgical-phrases", "polish": "Pokój Pański niech będzie zawsze z wami", "english": "The peace of the Lord be with you always" },
+    { "id": "lp-002", "deckId": "liturgical-phrases", "polish": "Chwała na wysokości Bogu", "english": "Glory to God in the highest" },
+    { "id": "lp-003", "deckId": "liturgical-phrases", "polish": "Panie, zmiłuj się", "english": "Lord, have mercy" },
+    { "id": "lp-004", "deckId": "liturgical-phrases", "polish": "Chryste, zmiłuj się", "english": "Christ, have mercy" },
+    { "id": "lp-005", "deckId": "liturgical-phrases", "polish": "Baranku Boży, który gładzisz grzechy świata, zmiłuj się nad nami", "english": "Lamb of God, you take away the sins of the world, have mercy on us" },
+    { "id": "lp-006", "deckId": "liturgical-phrases", "polish": "Baranku Boży, który gładzisz grzechy świata, obdarz nas pokojem", "english": "Lamb of God, you take away the sins of the world, grant us peace" },
+    { "id": "lp-007", "deckId": "liturgical-phrases", "polish": "Święty, Święty, Święty, Pan Bóg Zastępów", "english": "Holy, Holy, Holy Lord God of hosts" },
+    { "id": "lp-008", "deckId": "liturgical-phrases", "polish": "Pełne są niebiosa i ziemia chwały Twojej", "english": "Heaven and earth are full of your glory" },
+    { "id": "lp-009", "deckId": "liturgical-phrases", "polish": "Błogosławiony, który idzie w imię Pańskie", "english": "Blessed is he who comes in the name of the Lord" },
+    { "id": "lp-010", "deckId": "liturgical-phrases", "polish": "Hosanna na wysokości", "english": "Hosanna in the highest" },
+    { "id": "lp-011", "deckId": "liturgical-phrases", "polish": "Wierzę w jednego Boga, Ojca Wszechmogącego", "english": "I believe in one God, the Father almighty" },
+    { "id": "lp-012", "deckId": "liturgical-phrases", "polish": "Ojcze nasz, któryś jest w niebie", "english": "Our Father, who art in heaven" },
+    { "id": "lp-013", "deckId": "liturgical-phrases", "polish": "Zdrowaś Maryjo, łaski pełna, Pan z Tobą", "english": "Hail Mary, full of grace, the Lord is with thee" },
+    { "id": "lp-014", "deckId": "liturgical-phrases", "polish": "Oto wielka tajemnica wiary", "english": "The mystery of faith" },
+    { "id": "lp-015", "deckId": "liturgical-phrases", "polish": "Głosimy śmierć Twoją, Panie Jezu, wyznajemy Twoje zmartwychwstanie i oczekujemy Twego przyjścia w chwale", "english": "We proclaim your Death, O Lord, and profess your Resurrection until you come again" },
+    { "id": "lp-016", "deckId": "liturgical-phrases", "polish": "Przez Chrystusa, z Chrystusem i w Chrystusie", "english": "Through him, and with him, and in him" },
+    { "id": "lp-017", "deckId": "liturgical-phrases", "polish": "Pan z wami", "english": "The Lord be with you" },
+    { "id": "lp-018", "deckId": "liturgical-phrases", "polish": "W górę serca", "english": "Lift up your hearts" },
+    { "id": "lp-019", "deckId": "liturgical-phrases", "polish": "Wznosimy je do Pana", "english": "We lift them up to the Lord" },
+    { "id": "lp-020", "deckId": "liturgical-phrases", "polish": "Dzięki składajmy Panu Bogu naszemu", "english": "Let us give thanks to the Lord our God" },
+    { "id": "lp-021", "deckId": "liturgical-phrases", "polish": "Godne to i sprawiedliwe", "english": "It is right and just" },
+    { "id": "lp-022", "deckId": "liturgical-phrases", "polish": "Oto Ciało moje, które za was będzie wydane", "english": "This is my Body, which will be given up for you" },
+    { "id": "lp-023", "deckId": "liturgical-phrases", "polish": "To jest bowiem kielich Krwi mojej", "english": "For this is the chalice of my Blood" },
+    { "id": "lp-024", "deckId": "liturgical-phrases", "polish": "Módlcie się, aby moją i waszą ofiarę przyjął Bóg, Ojciec wszechmogący", "english": "Pray, brethren, that my sacrifice and yours may be acceptable to God, the almighty Father" },
+    { "id": "lp-025", "deckId": "liturgical-phrases", "polish": "Idźcie w pokoju Chrystusa", "english": "Go in peace, glorifying the Lord by your life" }
+  ]
+}

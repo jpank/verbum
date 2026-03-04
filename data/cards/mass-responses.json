@@ -1,0 +1,29 @@
+{
+  "cards": [
+    { "id": "mr-001", "deckId": "mass-responses", "polish": "I z duchem twoim", "english": "And with your spirit" },
+    { "id": "mr-002", "deckId": "mass-responses", "polish": "Bogu niech będą dzięki", "english": "Thanks be to God" },
+    { "id": "mr-003", "deckId": "mass-responses", "polish": "Chwała Tobie, Panie", "english": "Glory to you, O Lord" },
+    { "id": "mr-004", "deckId": "mass-responses", "polish": "Chwała Tobie, Chryste", "english": "Praise to you, Lord Jesus Christ" },
+    { "id": "mr-005", "deckId": "mass-responses", "polish": "Panie, nie jestem godzien, abyś przyszedł do mnie, ale powiedz tylko słowo, a będzie uzdrowiona dusza moja", "english": "Lord, I am not worthy that you should enter under my roof, but only say the word and my soul shall be healed" },
+    { "id": "mr-006", "deckId": "mass-responses", "polish": "Wznosimy je do Pana", "english": "We lift them up to the Lord" },
+    { "id": "mr-007", "deckId": "mass-responses", "polish": "Godne to i sprawiedliwe", "english": "It is right and just" },
+    { "id": "mr-008", "deckId": "mass-responses", "polish": "Amen", "english": "Amen" },
+    { "id": "mr-009", "deckId": "mass-responses", "polish": "I z duchem twoim (odpowiedź na: Pan z wami)", "english": "And with your spirit (response to: The Lord be with you)" },
+    { "id": "mr-010", "deckId": "mass-responses", "polish": "Spowiadam się Bogu wszechmogącemu", "english": "I confess to almighty God" },
+    { "id": "mr-011", "deckId": "mass-responses", "polish": "Moja wina, moja wina, moja bardzo wielka wina", "english": "Through my fault, through my fault, through my most grievous fault" },
+    { "id": "mr-012", "deckId": "mass-responses", "polish": "Niech się zmiłuje nad nami Bóg wszechmogący i odpuściwszy nam grzechy, doprowadzi nas do życia wiecznego", "english": "May almighty God have mercy on us, forgive us our sins, and bring us to everlasting life" },
+    { "id": "mr-013", "deckId": "mass-responses", "polish": "Panie, zmiłuj się / Kyrie, eleison", "english": "Lord, have mercy / Kyrie, eleison" },
+    { "id": "mr-014", "deckId": "mass-responses", "polish": "Chryste, zmiłuj się / Christe, eleison", "english": "Christ, have mercy / Christe, eleison" },
+    { "id": "mr-015", "deckId": "mass-responses", "polish": "Oto słowo Pańskie — Bogu niech będą dzięki", "english": "The word of the Lord — Thanks be to God" },
+    { "id": "mr-016", "deckId": "mass-responses", "polish": "Słowo Pańskie — Chwała Tobie, Chryste", "english": "The Gospel of the Lord — Praise to you, Lord Jesus Christ" },
+    { "id": "mr-017", "deckId": "mass-responses", "polish": "Niech Pan przyjmie ofiarę z rąk twoich na cześć i chwałę swojego imienia, a także na pożytek nasz i całego Kościoła świętego", "english": "May the Lord accept the sacrifice at your hands for the praise and glory of his name, for our good and the good of all his holy Church" },
+    { "id": "mr-018", "deckId": "mass-responses", "polish": "Święty, Święty, Święty", "english": "Holy, Holy, Holy" },
+    { "id": "mr-019", "deckId": "mass-responses", "polish": "Głosimy śmierć Twoją, Panie Jezu, wyznajemy Twoje zmartwychwstanie i oczekujemy Twego przyjścia w chwale", "english": "We proclaim your Death, O Lord, and profess your Resurrection until you come again" },
+    { "id": "mr-020", "deckId": "mass-responses", "polish": "Bo Twoje jest królestwo i potęga, i chwała na wieki", "english": "For the kingdom, the power and the glory are yours now and for ever" },
+    { "id": "mr-021", "deckId": "mass-responses", "polish": "I również z tobą (odpowiedź na: Przekażcie sobie znak pokoju)", "english": "And with your spirit (response to: Let us offer each other the sign of peace)" },
+    { "id": "mr-022", "deckId": "mass-responses", "polish": "Baranku Boży, który gładzisz grzechy świata, zmiłuj się nad nami", "english": "Lamb of God, you take away the sins of the world, have mercy on us" },
+    { "id": "mr-023", "deckId": "mass-responses", "polish": "Baranku Boży, który gładzisz grzechy świata, obdarz nas pokojem", "english": "Lamb of God, you take away the sins of the world, grant us peace" },
+    { "id": "mr-024", "deckId": "mass-responses", "polish": "Idźcie w pokoju Chrystusa — Bogu niech będą dzięki", "english": "Go in peace, glorifying the Lord by your life — Thanks be to God" },
+    { "id": "mr-025", "deckId": "mass-responses", "polish": "Alleluja", "english": "Alleluia" }
+  ]
+}
