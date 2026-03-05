@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import Link from "next/link";
 import DeckCard from "@/components/DeckCard";
 import StatsBar from "@/components/StatsBar";
 import InstallPrompt from "@/components/InstallPrompt";
@@ -88,6 +89,24 @@ export default function HomePage() {
               newCount={newCounts[deck.id] || 0}
             />
           ))}
+        </div>
+
+        <div className="mt-6">
+          <Link
+            href="/prayers"
+            className="flex items-center gap-4 bg-surface rounded-2xl border border-border p-4 active:scale-[0.98] active:bg-surface-hover transition-all"
+          >
+            <span className="text-2xl">🙏</span>
+            <div className="flex-1 min-w-0">
+              <h3 className="font-semibold text-[15px] text-t-primary">
+                Prayers
+              </h3>
+              <p className="text-t-secondary text-xs mt-0.5">
+                Quick reference for translating — Polish & English
+              </p>
+            </div>
+            <span className="text-t-tertiary text-sm">›</span>
+          </Link>
         </div>
       </div>
 

@@ -1,0 +1,188 @@
+{
+  "prayers": [
+    {
+      "id": "our-father",
+      "titlePl": "Ojcze Nasz",
+      "titleEn": "Our Father",
+      "category": "essential",
+      "english": "Our Father, who art in heaven,\nhallowed be thy name;\nthy kingdom come,\nthy will be done,\non earth as it is in heaven.\nGive us this day our daily bread,\nand forgive us our trespasses,\nas we forgive those who trespass against us;\nand lead us not into temptation,\nbut deliver us from evil.\nAmen.",
+      "polish": "Ojcze nasz, kt\u00f3ry\u015b jest w niebie,\n\u015bwi\u0119\u0107 si\u0119 imi\u0119 Twoje;\nprzyjd\u017a kr\u00f3lestwo Twoje;\nb\u0105d\u017a wola Twoja\njako w niebie, tak i na ziemi.\nChleba naszego powszedniego daj nam dzisiaj;\ni odpu\u015b\u0107 nam nasze winy,\njako i my odpuszczamy naszym winowajcom;\ni nie w\u00f3d\u017a nas na pokuszenie,\nale nas zbaw ode z\u0142ego.\nAmen."
+    },
+    {
+      "id": "hail-mary",
+      "titlePl": "Zdrowa\u015b Maryjo",
+      "titleEn": "Hail Mary",
+      "category": "essential",
+      "english": "Hail Mary, full of grace,\nthe Lord is with thee.\nBlessed art thou amongst women,\nand blessed is the fruit of thy womb, Jesus.\nHoly Mary, Mother of God,\npray for us sinners,\nnow and at the hour of our death.\nAmen.",
+      "polish": "Zdrowa\u015b Maryjo, \u0142aski pe\u0142na,\nPan z Tob\u0105.\nB\u0142ogos\u0142awiona\u015b Ty mi\u0119dzy niewiastami\ni b\u0142ogos\u0142awiony owoc \u017cywota Twojego, Jezus.\n\u015awi\u0119ta Maryjo, Matko Bo\u017ca,\nm\u00f3dl si\u0119 za nami grzesznymi\nteraz i w godzin\u0119 \u015bmierci naszej.\nAmen."
+    },
+    {
+      "id": "glory-be",
+      "titlePl": "Chwa\u0142a Ojcu",
+      "titleEn": "Glory Be",
+      "category": "essential",
+      "english": "Glory be to the Father,\nand to the Son,\nand to the Holy Spirit,\nas it was in the beginning,\nis now, and ever shall be,\nworld without end.\nAmen.",
+      "polish": "Chwa\u0142a Ojcu i Synowi,\ni Duchowi \u015awi\u0119temu.\nJako by\u0142a na pocz\u0105tku,\nteraz i zawsze,\ni na wieki wiek\u00f3w.\nAmen."
+    },
+    {
+      "id": "apostles-creed",
+      "titlePl": "Sk\u0142ad Apostolski",
+      "titleEn": "Apostles' Creed",
+      "category": "creed",
+      "english": "I believe in God,\nthe Father almighty,\nCreator of heaven and earth,\nand in Jesus Christ, his only Son, our Lord,\nwho was conceived by the Holy Spirit,\nborn of the Virgin Mary,\nsuffered under Pontius Pilate,\nwas crucified, died and was buried;\nhe descended into hell;\non the third day he rose again from the dead;\nhe ascended into heaven,\nand is seated at the right hand of God the Father almighty;\nfrom there he will come to judge the living and the dead.\nI believe in the Holy Spirit,\nthe holy catholic Church,\nthe communion of saints,\nthe forgiveness of sins,\nthe resurrection of the body,\nand life everlasting.\nAmen.",
+      "polish": "Wierz\u0119 w Boga, Ojca Wszechmog\u0105cego,\nStworzyciela nieba i ziemi.\nI w Jezusa Chrystusa,\nSyna Jego Jedynego, Pana naszego,\nkt\u00f3ry si\u0119 pocz\u0105\u0142 z Ducha \u015awi\u0119tego,\nnarodził si\u0119 z Maryi Panny,\numęczony pod Ponckim Piłatem,\nukrzy\u017cowany, umar\u0142 i pogrzebion,\nzst\u0105pi\u0142 do piekie\u0142,\ntrzeciego dnia zmartwychwsta\u0142;\nwst\u0105pi\u0142 na niebiosa,\nsiedzi po prawicy Boga Ojca Wszechmog\u0105cego;\nstamtąd przyjdzie s\u0105dzi\u0107 \u017cywych i umar\u0142ych.\nWierz\u0119 w Ducha \u015awi\u0119tego,\n\u015bwi\u0119ty Ko\u015bci\u00f3\u0142 powszechny,\n\u015awi\u0119tych obcowanie,\ngrzech\u00f3w odpuszczenie,\ncia\u0142a zmartwychwstanie,\n\u017cywot wieczny.\nAmen."
+    },
+    {
+      "id": "nicene-creed",
+      "titlePl": "Wyznanie Wiary Nicejsko-Konstantynopolita\u0144skie",
+      "titleEn": "Nicene Creed",
+      "category": "creed",
+      "english": "I believe in one God,\nthe Father almighty,\nmaker of heaven and earth,\nof all things visible and invisible.\n\nI believe in one Lord Jesus Christ,\nthe Only Begotten Son of God,\nborn of the Father before all ages.\nGod from God, Light from Light,\ntrue God from true God,\nbegotten, not made, consubstantial with the Father;\nthrough him all things were made.\nFor us men and for our salvation\nhe came down from heaven,\nand by the Holy Spirit was incarnate of the Virgin Mary,\nand became man.\n\nFor our sake he was crucified under Pontius Pilate,\nhe suffered death and was buried,\nand rose again on the third day\nin accordance with the Scriptures.\nHe ascended into heaven\nand is seated at the right hand of the Father.\nHe will come again in glory\nto judge the living and the dead\nand his kingdom will have no end.\n\nI believe in the Holy Spirit, the Lord, the giver of life,\nwho proceeds from the Father and the Son,\nwho with the Father and the Son is adored and glorified,\nwho has spoken through the prophets.\n\nI believe in one, holy, catholic and apostolic Church.\nI confess one Baptism for the forgiveness of sins\nand I look forward to the resurrection of the dead\nand the life of the world to come.\nAmen.",
+      "polish": "Wierz\u0119 w jednego Boga,\nOjca Wszechmog\u0105cego,\nStworzyciela nieba i ziemi,\nwszystkich rzeczy widzialnych i niewidzialnych.\n\nI w jednego Pana Jezusa Chrystusa,\nSyna Bo\u017cego Jednorodzonego,\nkt\u00f3ry z Ojca jest zrodzony przed wszystkimi wiekami.\nB\u00f3g z Boga, \u015awiat\u0142o\u015b\u0107 ze \u015awiat\u0142o\u015bci,\nB\u00f3g prawdziwy z Boga prawdziwego,\nzrodzony, a nie stworzony, wsp\u00f3\u0142istotny Ojcu,\na przez Niego wszystko si\u0119 sta\u0142o.\nOn to dla nas ludzi i dla naszego zbawienia\nzst\u0105pi\u0142 z nieba.\nI za spraw\u0105 Ducha \u015awi\u0119tego przyj\u0105\u0142 cia\u0142o z Maryi Dziewicy\ni sta\u0142 si\u0119 cz\u0142owiekiem.\n\nUkrzy\u017cowany r\u00f3wnie\u017c za nas pod Poncjuszem Pi\u0142atem,\nzosta\u0142 um\u0119czony i pogrzebany.\nI zmartwychwsta\u0142 trzeciego dnia,\njak oznajmia Pismo.\nI wst\u0105pi\u0142 do nieba;\nsiedzi po prawicy Ojca.\nI powtórnie przyjdzie w chwale\ns\u0105dzi\u0107 \u017cywych i umar\u0142ych,\na kr\u00f3lestwu Jego nie b\u0119dzie ko\u0144ca.\n\nWierz\u0119 w Ducha \u015awi\u0119tego, Pana i O\u017cywiciela,\nkt\u00f3ry od Ojca i Syna pochodzi.\nKt\u00f3ry z Ojcem i Synem jest wsp\u00f3lnie uwielbiany i wsp\u00f3\u0142chwalony,\nkt\u00f3ry m\u00f3wi\u0142 przez Prorok\u00f3w.\n\nWierz\u0119 w jeden, \u015bwi\u0119ty, powszechny i apostolski Ko\u015bci\u00f3\u0142.\nWyznaj\u0119 jeden chrzest na odpuszczenie grzech\u00f3w.\nI oczekuj\u0119 wskrzeszenia umar\u0142ych\ni \u017cycia wiecznego w przysz\u0142ym \u015bwiecie.\nAmen."
+    },
+    {
+      "id": "act-of-contrition",
+      "titlePl": "Akt \u017balu",
+      "titleEn": "Act of Contrition",
+      "category": "essential",
+      "english": "O my God, I am heartily sorry\nfor having offended Thee,\nand I detest all my sins\nbecause of Thy just punishments,\nbut most of all because they offend Thee, my God,\nwho art all good and deserving of all my love.\nI firmly resolve, with the help of Thy grace,\nto sin no more and to avoid\nthe near occasions of sin.\nAmen.",
+      "polish": "Akt \u017calu:\nB\u00f3g si\u0119 rodzi, moc truchleje...\n\nBo\u017ce m\u00f3j, \u017ca\u0142uj\u0119 za me z\u0142o\u015bci\njedynie dla Twej mi\u0142o\u015bci.\nBądź miłościw mnie grzesznemu,\ndo poprawy dąż\u0105cemu.\nAmen."
+    },
+    {
+      "id": "confiteor",
+      "titlePl": "Spowied\u017a Powszechna",
+      "titleEn": "Confiteor",
+      "category": "mass",
+      "english": "I confess to almighty God\nand to you, my brothers and sisters,\nthat I have greatly sinned,\nin my thoughts and in my words,\nin what I have done and in what I have failed to do,\nthrough my fault, through my fault,\nthrough my most grievous fault;\ntherefore I ask blessed Mary ever-Virgin,\nall the Angels and Saints,\nand you, my brothers and sisters,\nto pray for me to the Lord our God.",
+      "polish": "Spowiadam si\u0119 Bogu wszechmog\u0105cemu\ni wam, bracia i siostry,\n\u017ce bardzo zgrzeszy\u0142em\nmy\u015bl\u0105, mow\u0105, uczynkiem i zaniedbaniem:\nmoja wina, moja wina,\nmoja bardzo wielka wina.\nPrzeto b\u0142agam Najświętszą Maryj\u0119, zawsze Dziewic\u0119,\nwszystkich Anio\u0142\u00f3w i \u015awi\u0119tych,\ni was, bracia i siostry,\no modlitw\u0119 za mnie\ndo Pana Boga naszego."
+    },
+    {
+      "id": "hail-holy-queen",
+      "titlePl": "Pod Twoj\u0105 Obron\u0119 / Salve Regina",
+      "titleEn": "Hail, Holy Queen",
+      "category": "marian",
+      "english": "Hail, holy Queen, Mother of mercy,\nhail, our life, our sweetness and our hope.\nTo thee do we cry,\npoor banished children of Eve;\nto thee do we send up our sighs,\nmourning and weeping in this valley of tears.\nTurn, then, most gracious advocate,\nthine eyes of mercy toward us;\nand after this, our exile,\nshow unto us the blessed fruit of thy womb, Jesus.\nO clement, O loving, O sweet Virgin Mary.\n\nPray for us, O holy Mother of God,\nthat we may be made worthy of the promises of Christ.",
+      "polish": "Witaj, Kr\u00f3lowo, Matko mi\u0142osierdzia,\n\u017cycie, s\u0142odyczy i nadziejo nasza, witaj!\nDo Ciebie wo\u0142amy,\nwygna\u0144cy, synowie Ewy;\ndo Ciebie wzdychamy,\nj\u0119cz\u0105c i p\u0142acz\u0105c na tym \u0142ez padole.\nPrzeto, Or\u0119downiczko nasza,\none mi\u0142osierne oczy Twoje na nas zwr\u00f3\u0107,\na Jezusa, b\u0142ogos\u0142awiony owoc \u017cywota Twojego,\npo tym wygnaniu nam oka\u017c.\nO \u0142askawa, o litościwa, o s\u0142odka Panno Maryjo!\n\nM\u00f3dl si\u0119 za nami, \u015bwi\u0119ta Bo\u017ca Rodzicielko,\naby\u015bmy si\u0119 stali godnymi obietnic Chrystusowych."
+    },
+    {
+      "id": "memorare",
+      "titlePl": "Memorare",
+      "titleEn": "Memorare",
+      "category": "marian",
+      "english": "Remember, O most gracious Virgin Mary,\nthat never was it known\nthat anyone who fled to thy protection,\nimplored thy help, or sought thy intercession\nwas left unaided.\nInspired with this confidence, I fly to thee,\nO Virgin of virgins, my Mother;\nto thee do I come,\nbefore thee I stand, sinful and sorrowful.\nO Mother of the Word Incarnate,\ndespise not my petitions,\nbut in thy mercy hear and answer me.\nAmen.",
+      "polish": "Pomnij, o Najświętsza Panno Maryjo,\n\u017ce nigdy nie s\u0142yszano,\naby kto, uciekaj\u0105c si\u0119 do Ciebie,\nb\u0142agaj\u0105c o Twoj\u0105 pomoc,\nprosz\u0105c o Twoje or\u0119downictwo,\nzosta\u0142 przez Ciebie opuszczony.\nT\u0105 ufno\u015bci\u0105 o\u017cywiony,\ndo Ciebie, o Panno nad pannami i Matko, biegnę,\ndo Ciebie przychodzę,\nprzed Tob\u0105 staj\u0119, ja grzeszny i p\u0142acz\u0105cy.\nO Matko S\u0142owa Wcielonego,\nracz nie gardzi\u0107 moimi prośbami,\nale je mi\u0142o\u015bciwie wys\u0142uchaj i wype\u0142nij.\nAmen."
+    },
+    {
+      "id": "angelus",
+      "titlePl": "Anio\u0142 Pa\u0144ski",
+      "titleEn": "Angelus",
+      "category": "devotion",
+      "english": "The Angel of the Lord declared unto Mary,\nand she conceived of the Holy Spirit.\nHail Mary...\n\nBehold the handmaid of the Lord,\nbe it done unto me according to thy word.\nHail Mary...\n\nAnd the Word was made flesh,\nand dwelt among us.\nHail Mary...\n\nPray for us, O holy Mother of God,\nthat we may be made worthy of the promises of Christ.\n\nLet us pray:\nPour forth, we beseech Thee, O Lord,\nThy grace into our hearts;\nthat we, to whom the Incarnation of Christ, Thy Son,\nwas made known by the message of an Angel,\nmay by His Passion and Cross\nbe brought to the glory of His Resurrection,\nthrough the same Christ our Lord.\nAmen.",
+      "polish": "Anio\u0142 Pa\u0144ski zwiastowa\u0142 Pannie Maryi\ni pocz\u0119\u0142a z Ducha \u015awi\u0119tego.\nZdrowa\u015b Maryjo...\n\nOto ja s\u0142u\u017cebnica Pa\u0144ska,\nniech mi si\u0119 stanie wed\u0142ug s\u0142owa Twego.\nZdrowa\u015b Maryjo...\n\nA S\u0142owo sta\u0142o si\u0119 Cia\u0142em\ni zamieszka\u0142o mi\u0119dzy nami.\nZdrowa\u015b Maryjo...\n\nM\u00f3dl si\u0119 za nami, \u015bwi\u0119ta Bo\u017ca Rodzicielko,\naby\u015bmy si\u0119 stali godnymi obietnic Chrystusowych.\n\nM\u00f3dlmy si\u0119:\nŁask\u0119 Twoj\u0105, prosimy Ci\u0119, Panie,\nracz wla\u0107 w serca nasze,\naby\u015bmy, kt\u00f3rzy za zwiastowaniem anielskim\nWcielenie Chrystusa, Syna Twego, poznali,\nprzez M\u0119k\u0119 Jego i Krzy\u017c\ndo chwa\u0142y Zmartwychwstania byli doprowadzeni.\nPrzez tego\u017c Chrystusa, Pana naszego.\nAmen."
+    },
+    {
+      "id": "sign-of-the-cross",
+      "titlePl": "Znak Krzy\u017ca",
+      "titleEn": "Sign of the Cross",
+      "category": "essential",
+      "english": "In the name of the Father,\nand of the Son,\nand of the Holy Spirit.\nAmen.",
+      "polish": "W imi\u0119 Ojca\ni Syna,\ni Ducha \u015awi\u0119tego.\nAmen."
+    },
+    {
+      "id": "eternal-rest",
+      "titlePl": "Wieczny Odpoczynek",
+      "titleEn": "Eternal Rest",
+      "category": "essential",
+      "english": "Eternal rest grant unto them, O Lord,\nand let perpetual light shine upon them.\nMay they rest in peace.\nAmen.",
+      "polish": "Wieczny odpoczynek racz im da\u0107, Panie,\na \u015bwiat\u0142o\u015b\u0107 wiekuista niechaj im \u015bwieci.\nNiech odpoczywaj\u0105 w pokoju.\nAmen."
+    },
+    {
+      "id": "grace-before-meals",
+      "titlePl": "Modlitwa przed Jedzeniem",
+      "titleEn": "Grace Before Meals",
+      "category": "devotion",
+      "english": "Bless us, O Lord,\nand these Thy gifts,\nwhich we are about to receive\nfrom Thy bounty,\nthrough Christ our Lord.\nAmen.",
+      "polish": "Pob\u0142ogos\u0142aw, Panie Bo\u017ce, nas\ni te dary,\nkt\u00f3re z Twojej hojno\u015bci\nb\u0119dziemy spo\u017cywa\u0107.\nPrzez Chrystusa, Pana naszego.\nAmen."
+    },
+    {
+      "id": "come-holy-spirit",
+      "titlePl": "Przyjd\u017a, Duchu \u015awi\u0119ty",
+      "titleEn": "Come, Holy Spirit",
+      "category": "devotion",
+      "english": "Come, Holy Spirit, fill the hearts of Thy faithful\nand enkindle in them the fire of Thy love.\nSend forth Thy Spirit and they shall be created,\nand Thou shalt renew the face of the earth.\n\nLet us pray:\nO God, who didst instruct the hearts of the faithful\nby the light of the Holy Spirit,\ngrant us in the same Spirit to be truly wise,\nand ever to rejoice in His consolation,\nthrough Christ our Lord.\nAmen.",
+      "polish": "Przyjd\u017a, Duchu \u015awi\u0119ty, nape\u0142nij serca Twoich wiernych\ni zapal w nich ogie\u0144 Twojej mi\u0142o\u015bci.\nZe\u015blij Ducha Twego, a powstan\u0105 z martwych\ni odnowisz oblicze ziemi.\n\nM\u00f3dlmy si\u0119:\nBo\u017ce, kt\u00f3ry\u015b pouczy\u0142 serca wiernych\n\u015bwiat\u0142em Ducha \u015awi\u0119tego,\ndaj nam w tym\u017ce Duchu pozna\u0107, co jest prawe,\ni Jego pociech\u0105 zawsze si\u0119 radowa\u0107.\nPrzez Chrystusa, Pana naszego.\nAmen."
+    },
+    {
+      "id": "act-of-faith",
+      "titlePl": "Akt Wiary",
+      "titleEn": "Act of Faith",
+      "category": "devotion",
+      "english": "O my God, I firmly believe\nthat Thou art one God in three Divine Persons:\nFather, Son, and Holy Spirit.\nI believe that Thy Divine Son became man\nand died for our sins,\nand that He will come to judge the living and the dead.\nI believe these and all the truths\nwhich the Holy Catholic Church teaches,\nbecause Thou hast revealed them,\nwho canst neither deceive nor be deceived.\nAmen.",
+      "polish": "Wierz\u0119 w Ciebie, Bo\u017ce \u017cywy,\nw Tr\u00f3jcy jedyny, prawdziwy.\nWierz\u0119 w co objawi\u0142 B\u00f3g\ni Ko\u015bci\u00f3\u0142 podaje,\nbo Ty, Bo\u017ce, by\u0107 nie mo\u017cesz\nani w b\u0142\u0119dzie, ani w k\u0142amstwie.\nAmen."
+    },
+    {
+      "id": "act-of-hope",
+      "titlePl": "Akt Nadziei",
+      "titleEn": "Act of Hope",
+      "category": "devotion",
+      "english": "O my God, relying on Thy infinite goodness\nand promises,\nI hope to obtain pardon of my sins,\nthe help of Thy grace,\nand life everlasting,\nthrough the merits of Jesus Christ,\nmy Lord and Redeemer.\nAmen.",
+      "polish": "Ufam Tobie, bo\u015b Ty wierny,\nwszechmog\u0105cy i mi\u0142osierny.\nDasz mi grzech\u00f3w odpuszczenie,\n\u0142ask\u0119 i wieczne zbawienie.\nAmen."
+    },
+    {
+      "id": "act-of-love",
+      "titlePl": "Akt Mi\u0142o\u015bci",
+      "titleEn": "Act of Love",
+      "category": "devotion",
+      "english": "O my God, I love Thee above all things\nwith my whole heart and soul,\nbecause Thou art all good\nand worthy of all my love.\nI love my neighbor as myself\nfor the love of Thee.\nI forgive all who have injured me\nand I ask pardon of all whom I have injured.\nAmen.",
+      "polish": "Bo\u017ce, cho\u0107 Ci\u0119 nie pojmuj\u0119,\nnad wszystko Ci\u0119 mi\u0142uj\u0119,\nnad wszystko, co jest stworzone,\nbo\u015b Ty dobro niesko\u0144czone.\nAmen."
+    },
+    {
+      "id": "stations-of-the-cross",
+      "titlePl": "Droga Krzy\u017cowa \u2014 Stacje",
+      "titleEn": "Stations of the Cross",
+      "category": "lenten",
+      "english": "I. Jesus is condemned to death.\nII. Jesus takes up His cross.\nIII. Jesus falls the first time.\nIV. Jesus meets His Mother.\nV. Simon of Cyrene helps Jesus carry the cross.\nVI. Veronica wipes the face of Jesus.\nVII. Jesus falls the second time.\nVIII. Jesus meets the women of Jerusalem.\nIX. Jesus falls the third time.\nX. Jesus is stripped of His garments.\nXI. Jesus is nailed to the cross.\nXII. Jesus dies on the cross.\nXIII. Jesus is taken down from the cross.\nXIV. Jesus is laid in the tomb.",
+      "polish": "I. Pan Jezus na \u015bmier\u0107 skazany.\nII. Pan Jezus bierze krzy\u017c na swoje ramiona.\nIII. Pan Jezus upada pierwszy raz pod krzy\u017cem.\nIV. Pan Jezus spotyka swoj\u0105 Matk\u0119.\nV. Szymon z Cyreny pomaga nie\u015b\u0107 krzy\u017c Jezusowi.\nVI. \u015awi\u0119ta Weronika ociera twarz Jezusowi.\nVII. Pan Jezus upada drugi raz pod krzy\u017cem.\nVIII. Pan Jezus pociesza p\u0142acz\u0105ce niewiasty.\nIX. Pan Jezus upada trzeci raz pod krzy\u017cem.\nX. Pan Jezus z szat obna\u017cony.\nXI. Pan Jezus przybity do krzy\u017ca.\nXII. Pan Jezus umiera na krzy\u017cu.\nXIII. Pan Jezus zdjęty z krzy\u017ca.\nXIV. Pan Jezus z\u0142o\u017cony do grobu."
+    },
+    {
+      "id": "divine-mercy-chaplet",
+      "titlePl": "Koronka do Mi\u0142osierdzia Bo\u017cego",
+      "titleEn": "Divine Mercy Chaplet",
+      "category": "devotion",
+      "english": "Opening:\nOur Father... Hail Mary... Apostles' Creed...\n\nOn the large beads:\nEternal Father, I offer You the Body and Blood,\nSoul and Divinity of Your dearly beloved Son,\nOur Lord Jesus Christ,\nin atonement for our sins\nand those of the whole world.\n\nOn the small beads:\nFor the sake of His sorrowful Passion,\nhave mercy on us and on the whole world.\n\nConcluding (3 times):\nHoly God, Holy Mighty One, Holy Immortal One,\nhave mercy on us and on the whole world.",
+      "polish": "Na początek:\nOjcze nasz... Zdrowaś Maryjo... Wierzę w Boga...\n\nNa dużych paciorkach:\nOjcze Przedwieczny, ofiaruj\u0119 Ci Cia\u0142o i Krew,\nDusz\u0119 i B\u00f3stwo\nNajmi\u0142szego Syna Twojego,\na Pana naszego Jezusa Chrystusa,\nna przeb\u0142aganie za grzechy nasze\ni ca\u0142ego \u015bwiata.\n\nNa ma\u0142ych paciorkach:\nDla Jego bolesnej m\u0119ki\nmiej mi\u0142osierdzie dla nas i ca\u0142ego \u015bwiata.\n\nNa zako\u0144czenie (3 razy):\n\u015awi\u0119ty Bo\u017ce, \u015awi\u0119ty Mocny, \u015awi\u0119ty Nie\u015bmiertelny,\nzmi\u0142uj si\u0119 nad nami i nad ca\u0142ym \u015bwiatem."
+    },
+    {
+      "id": "mystery-of-faith",
+      "titlePl": "Tajemnica Wiary",
+      "titleEn": "Mystery of Faith",
+      "category": "mass",
+      "english": "We proclaim your Death, O Lord,\nand profess your Resurrection\nuntil you come again.\n\nOR:\n\nWhen we eat this Bread and drink this Cup,\nwe proclaim your Death, O Lord,\nuntil you come again.\n\nOR:\n\nSave us, Savior of the world,\nfor by your Cross and Resurrection\nyou have set us free.",
+      "polish": "G\u0142osimy \u015bmier\u0107 Twoj\u0105, Panie Jezu,\nwyznajemy Twoje zmartwychwstanie\ni oczekujemy Twego przyjścia w chwale.\n\nLUB:\n\nIle razy ten chleb spo\u017cywamy\ni pijemy z tego kielicha,\ng\u0142osimy \u015bmier\u0107 Twoj\u0105, Panie,\noczekuj\u0105c Twego przyjścia w chwale.\n\nLUB:\n\nPanie, Ty nas wybawi\u0142e\u015b\nprzez krzy\u017c i zmartwychwstanie swoje.\nTy jeste\u015b Zbawicielem \u015bwiata."
+    },
+    {
+      "id": "holy-holy-holy",
+      "titlePl": "\u015awi\u0119ty, \u015awi\u0119ty, \u015awi\u0119ty",
+      "titleEn": "Holy, Holy, Holy (Sanctus)",
+      "category": "mass",
+      "english": "Holy, Holy, Holy Lord God of hosts.\nHeaven and earth are full of your glory.\nHosanna in the highest.\nBlessed is he who comes in the name of the Lord.\nHosanna in the highest.",
+      "polish": "\u015awi\u0119ty, \u015awi\u0119ty, \u015awi\u0119ty,\nPan B\u00f3g Zast\u0119p\u00f3w.\nPe\u0142ne s\u0105 niebiosa i ziemia chwa\u0142y Twojej.\nHosanna na wysoko\u015bci.\nB\u0142ogos\u0142awiony, kt\u00f3ry idzie w imi\u0119 Pa\u0144skie.\nHosanna na wysoko\u015bci."
+    },
+    {
+      "id": "lamb-of-god",
+      "titlePl": "Baranku Bo\u017cy",
+      "titleEn": "Lamb of God (Agnus Dei)",
+      "category": "mass",
+      "english": "Lamb of God, you take away the sins of the world,\nhave mercy on us.\nLamb of God, you take away the sins of the world,\nhave mercy on us.\nLamb of God, you take away the sins of the world,\ngrant us peace.",
+      "polish": "Baranku Bo\u017cy, kt\u00f3ry g\u0142adzisz grzechy \u015bwiata,\nzmi\u0142uj si\u0119 nad nami.\nBaranku Bo\u017cy, kt\u00f3ry g\u0142adzisz grzechy \u015bwiata,\nzmi\u0142uj si\u0119 nad nami.\nBaranku Bo\u017cy, kt\u00f3ry g\u0142adzisz grzechy \u015bwiata,\nobdarz nas pokojem."
+    },
+    {
+      "id": "lords-prayer-response",
+      "titlePl": "Embolizm po Ojcze Nasz",
+      "titleEn": "Doxology after Our Father",
+      "category": "mass",
+      "english": "For the kingdom,\nthe power and the glory are yours\nnow and for ever.",
+      "polish": "Bo Twoje jest kr\u00f3lestwo\ni potęga, i chwa\u0142a\nna wieki."
+    }
+  ]
+}

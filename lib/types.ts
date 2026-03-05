@@ -54,3 +54,12 @@ export const RATING_TO_GRADE: Record<UserRating, Grade> = {
   good: 4,
   easy: 5,
 };
+
+export interface Prayer {
+  id: string;
+  titlePl: string;
+  titleEn: string;
+  category: string;
+  english: string;
+  polish: string;
+}
