@@ -3,10 +3,30 @@
 import { UserRating } from "@/lib/types";
 
 const ratings: { rating: UserRating; label: string; color: string; hint: string }[] = [
-  { rating: "again", label: "Again", color: "bg-red-600 active:bg-red-700", hint: "<1m" },
-  { rating: "hard", label: "Hard", color: "bg-orange-600 active:bg-orange-700", hint: "~1d" },
-  { rating: "good", label: "Good", color: "bg-emerald-600 active:bg-emerald-700", hint: "~6d" },
-  { rating: "easy", label: "Easy", color: "bg-blue-600 active:bg-blue-700", hint: "~15d" },
+  {
+    rating: "again",
+    label: "Again",
+    color: "bg-incorrect/10 text-incorrect border border-incorrect/20",
+    hint: "<1m",
+  },
+  {
+    rating: "hard",
+    label: "Hard",
+    color: "bg-orange-500/10 text-orange-600 dark:text-orange-400 border border-orange-500/20",
+    hint: "~1d",
+  },
+  {
+    rating: "good",
+    label: "Good",
+    color: "bg-correct/10 text-correct border border-correct/20",
+    hint: "~6d",
+  },
+  {
+    rating: "easy",
+    label: "Easy",
+    color: "bg-accent-soft text-accent border border-accent/20",
+    hint: "~15d",
+  },
 ];
 
 export default function RatingButtons({
@@ -15,8 +35,8 @@ export default function RatingButtons({
   onRate: (rating: UserRating) => void;
 }) {
   return (
-    <div className="px-4 pb-[calc(var(--sab)+1rem)] pt-3 bg-verbum-950/90 backdrop-blur">
-      <p className="text-center text-verbum-400 text-xs mb-2">
+    <div className="px-4 pb-[calc(var(--sab)+1rem)] pt-3 bg-surface/90 backdrop-blur-xl border-t border-border">
+      <p className="text-center text-t-tertiary text-xs mb-2">
         How well did you know this?
       </p>
       <div className="grid grid-cols-4 gap-2">
@@ -24,7 +44,7 @@ export default function RatingButtons({
           <button
             key={rating}
             onClick={() => onRate(rating)}
-            className={`${color} rounded-xl py-3 px-1 text-white font-medium text-sm transition-transform active:scale-95`}
+            className={`${color} rounded-2xl py-3 px-1 font-medium text-sm transition-all active:scale-95`}
           >
             <div>{label}</div>
             <div className="text-[10px] opacity-70 mt-0.5">{hint}</div>

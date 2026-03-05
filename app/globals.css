@@ -4,10 +4,69 @@
 
 @layer base {
   :root {
+    /* Surfaces — Light */
+    --bg: #F5F5F7;
+    --surface: #FFFFFF;
+    --surface-hover: #F0F0F2;
+    --surface-active: #E8E8ED;
+    --border: #D2D2D7;
+
+    /* Text — Light */
+    --t-primary: #1D1D1F;
+    --t-secondary: #6E6E73;
+    --t-tertiary: #AEAEB2;
+
+    /* Accent — Apple blue */
+    --accent: #0071E3;
+    --accent-soft: rgba(0, 113, 227, 0.1);
+
+    /* Rose — from iPhone pink */
+    --rose-soft: rgba(242, 209, 202, 0.3);
+
+    /* Semantic */
+    --correct: #34C759;
+    --correct-soft: rgba(52, 199, 89, 0.12);
+    --incorrect: #FF3B30;
+    --incorrect-soft: rgba(255, 59, 48, 0.12);
+
+    /* Safe areas */
     --sat: env(safe-area-inset-top);
     --sab: env(safe-area-inset-bottom);
     --sal: env(safe-area-inset-left);
     --sar: env(safe-area-inset-right);
+  }
+
+  .dark {
+    /* Surfaces — Dark */
+    --bg: #000000;
+    --surface: #1C1C1E;
+    --surface-hover: #2C2C2E;
+    --surface-active: #3A3A3C;
+    --border: #38383A;
+
+    /* Text — Dark */
+    --t-primary: #F5F5F7;
+    --t-secondary: #98989D;
+    --t-tertiary: #636366;
+
+    /* Accent — Apple blue (brighter for dark) */
+    --accent: #0A84FF;
+    --accent-soft: rgba(10, 132, 255, 0.15);
+
+    /* Rose */
+    --rose-soft: rgba(242, 209, 202, 0.1);
+
+    /* Semantic */
+    --correct: #30D158;
+    --correct-soft: rgba(48, 209, 88, 0.15);
+    --incorrect: #FF453A;
+    --incorrect-soft: rgba(255, 69, 58, 0.15);
+  }
+
+  body {
+    background-color: var(--bg);
+    color: var(--t-primary);
+    transition: background-color 0.3s ease, color 0.3s ease;
   }
 
   button,

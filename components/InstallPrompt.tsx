@@ -46,9 +46,9 @@ export default function InstallPrompt() {
   if (!show) return null;
 
   return (
-    <div className="fixed bottom-0 left-0 right-0 bg-verbum-900 border-t border-verbum-700 px-4 py-3 pb-[calc(var(--sab)+0.75rem)]">
+    <div className="fixed bottom-0 left-0 right-0 bg-surface/95 backdrop-blur-xl border-t border-border px-4 py-3 pb-[calc(var(--sab)+0.75rem)]">
       <div className="flex items-center gap-3">
-        <div className="flex-1 text-sm">
+        <div className="flex-1 text-sm text-t-primary">
           {isIOS ? (
             <p>
               Tap <span className="font-semibold">Share</span> then{" "}
@@ -62,14 +62,14 @@ export default function InstallPrompt() {
         {!isIOS && (
           <button
             onClick={handleInstall}
-            className="bg-gold-500 text-verbum-950 font-semibold text-sm px-4 py-2 rounded-lg"
+            className="bg-accent text-white font-semibold text-sm px-4 py-2 rounded-xl"
           >
             Install
           </button>
         )}
         <button
           onClick={dismiss}
-          className="text-verbum-500 text-sm px-2"
+          className="text-t-tertiary text-sm px-2"
         >
           ✕
         </button>

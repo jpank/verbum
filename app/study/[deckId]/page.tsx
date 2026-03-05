@@ -35,8 +35,8 @@ export default function StudyPage() {
 
   if (isLoading) {
     return (
-      <div className="flex items-center justify-center h-full">
-        <div className="text-verbum-400">Loading...</div>
+      <div className="flex items-center justify-center h-full bg-bg">
+        <div className="text-t-secondary">Loading...</div>
       </div>
     );
   }
@@ -70,11 +70,11 @@ export default function StudyPage() {
   }
 
   return (
-    <div className="flex flex-col h-full">
+    <div className="flex flex-col h-full bg-bg">
       <div className="flex items-center px-4 pt-[calc(var(--sat)+0.75rem)] pb-2">
         <button
           onClick={() => router.push("/")}
-          className="text-verbum-400 text-sm mr-4"
+          className="text-accent text-sm font-medium mr-4"
         >
           ← Back
         </button>

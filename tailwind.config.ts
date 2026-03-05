@@ -2,40 +2,54 @@ import type { Config } from "tailwindcss";
 
 const config: Config = {
   content: ["./app/**/*.{ts,tsx}", "./components/**/*.{ts,tsx}"],
+  darkMode: "class",
   theme: {
     extend: {
       colors: {
-        verbum: {
-          50: "#f5f0fa",
-          100: "#ebe0f5",
-          200: "#d4bfeb",
-          300: "#b893db",
-          400: "#9a62c7",
-          500: "#7c3aad",
-          600: "#6b2fa0",
-          700: "#582583",
-          800: "#4a2069",
-          900: "#3d1b57",
-          950: "#260f3a",
+        // Surfaces
+        bg: "var(--bg)",
+        surface: "var(--surface)",
+        "surface-hover": "var(--surface-hover)",
+        "surface-active": "var(--surface-active)",
+        border: "var(--border)",
+
+        // Text
+        "t-primary": "var(--t-primary)",
+        "t-secondary": "var(--t-secondary)",
+        "t-tertiary": "var(--t-tertiary)",
+
+        // Accent — Apple blue
+        accent: {
+          DEFAULT: "var(--accent)",
+          soft: "var(--accent-soft)",
         },
-        gold: {
-          50: "#fdf8e8",
-          100: "#faefc0",
-          200: "#f5df85",
-          300: "#ecc840",
-          400: "#e2b517",
-          500: "#d4a017",
-          600: "#b67c0e",
-          700: "#925a0e",
-          800: "#784813",
-          900: "#663b15",
-          950: "#3b1e07",
+
+        // Rose — from iPhone pink body
+        rose: {
+          DEFAULT: "#F2D1CA",
+          soft: "var(--rose-soft)",
+          muted: "#E8B4A8",
         },
-        correct: "#16a34a",
-        incorrect: "#dc2626",
+
+        // Semantic
+        correct: "var(--correct)",
+        "correct-soft": "var(--correct-soft)",
+        incorrect: "var(--incorrect)",
+        "incorrect-soft": "var(--incorrect-soft)",
       },
       fontFamily: {
-        sans: ["Inter", "system-ui", "sans-serif"],
+        sans: [
+          "-apple-system",
+          "BlinkMacSystemFont",
+          "SF Pro Display",
+          "Inter",
+          "system-ui",
+          "sans-serif",
+        ],
+      },
+      borderRadius: {
+        "2xl": "16px",
+        "3xl": "20px",
       },
     },
   },

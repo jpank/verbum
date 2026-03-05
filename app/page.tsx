@@ -4,6 +4,7 @@ import { useEffect, useState } from "react";
 import DeckCard from "@/components/DeckCard";
 import StatsBar from "@/components/StatsBar";
 import InstallPrompt from "@/components/InstallPrompt";
+import ThemeToggle from "@/components/ThemeToggle";
 import decksData from "@/data/decks.json";
 import { Card, Deck, UserProgress } from "@/lib/types";
 import { getProgress } from "@/lib/stats";
@@ -62,12 +63,17 @@ export default function HomePage() {
   }, []);
 
   return (
-    <div className="flex flex-col h-full">
-      <header className="px-4 pt-[calc(var(--sat)+1rem)] pb-4">
-        <h1 className="text-2xl font-bold text-gold-400">Verbum</h1>
-        <p className="text-sm text-verbum-300 mt-1">
-          Biblical Vocabulary · Polish ↔ English
-        </p>
+    <div className="flex flex-col h-full bg-bg">
+      <header className="px-4 pt-[calc(var(--sat)+1rem)] pb-4 flex items-start justify-between">
+        <div>
+          <h1 className="text-2xl font-bold text-accent">Verbum</h1>
+          <p className="text-sm text-t-secondary mt-1">
+            Biblical Vocabulary · Polish ↔ English
+          </p>
+        </div>
+        <div className="mt-1">
+          <ThemeToggle />
+        </div>
       </header>
 
       <StatsBar progress={progress} />

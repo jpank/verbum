@@ -22,10 +22,13 @@ export default function MultipleChoice({
   };
 
   const getButtonStyle = (choice: string) => {
-    if (!selected) return "bg-verbum-800 border-verbum-700 active:bg-verbum-700";
-    if (choice === correctAnswer) return "bg-correct/20 border-correct text-correct";
-    if (choice === selected) return "bg-incorrect/20 border-incorrect text-incorrect";
-    return "bg-verbum-800/50 border-verbum-700/50 opacity-50";
+    if (!selected)
+      return "bg-surface border-border active:bg-surface-hover";
+    if (choice === correctAnswer)
+      return "bg-correct-soft border-correct text-correct";
+    if (choice === selected)
+      return "bg-incorrect-soft border-incorrect text-incorrect";
+    return "bg-surface/50 border-border opacity-50";
   };
 
   return (
@@ -35,7 +38,7 @@ export default function MultipleChoice({
           key={i}
           onClick={() => handleSelect(choice)}
           disabled={!!selected}
-          className={`${getButtonStyle(choice)} border rounded-xl py-3 px-4 text-left text-sm font-medium transition-all`}
+          className={`${getButtonStyle(choice)} border rounded-2xl py-3 px-4 text-left text-sm font-medium transition-all`}
         >
           {choice}
         </button>

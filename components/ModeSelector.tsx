@@ -35,16 +35,16 @@ export default function ModeSelector({
   onBack,
 }: ModeSelectorProps) {
   return (
-    <div className="flex flex-col h-full">
+    <div className="flex flex-col h-full bg-bg">
       <div className="px-4 pt-[calc(var(--sat)+0.75rem)] pb-2">
-        <button onClick={onBack} className="text-verbum-400 text-sm">
+        <button onClick={onBack} className="text-accent text-sm font-medium">
           ← Back
         </button>
       </div>
 
       <div className="px-4 mt-4">
-        <h2 className="text-xl font-bold">{deckName}</h2>
-        <p className="text-verbum-400 text-sm mt-1">Choose study mode</p>
+        <h2 className="text-xl font-bold text-t-primary">{deckName}</h2>
+        <p className="text-t-secondary text-sm mt-1">Choose study mode</p>
       </div>
 
       <div className="flex-1 flex flex-col justify-center px-4 gap-3 pb-16">
@@ -52,13 +52,13 @@ export default function ModeSelector({
           <button
             key={mode}
             onClick={() => onSelect(mode)}
-            className="bg-verbum-900/80 border border-verbum-700 rounded-xl p-5 text-left active:scale-[0.98] transition-transform"
+            className="bg-surface border border-border rounded-2xl p-5 text-left active:scale-[0.98] active:bg-surface-hover transition-all"
           >
             <div className="flex items-center gap-3">
               <span className="text-2xl">{icon}</span>
               <div>
-                <div className="font-semibold">{label}</div>
-                <div className="text-verbum-400 text-xs mt-0.5">{desc}</div>
+                <div className="font-semibold text-t-primary">{label}</div>
+                <div className="text-t-tertiary text-xs mt-0.5">{desc}</div>
               </div>
             </div>
           </button>

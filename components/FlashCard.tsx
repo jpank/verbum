@@ -28,28 +28,28 @@ export default function FlashCard({
     >
       <div className={`card-flip-inner relative w-full h-60 ${isFlipped ? "flipped" : ""}`}>
         {/* Front */}
-        <div className="card-face absolute inset-0 bg-verbum-800 rounded-2xl border border-verbum-700 flex flex-col items-center justify-center p-6">
-          <span className="text-verbum-400 text-xs uppercase tracking-wider mb-3">
+        <div className="card-face absolute inset-0 bg-surface rounded-2xl border border-border flex flex-col items-center justify-center p-6 shadow-sm">
+          <span className="text-t-tertiary text-xs uppercase tracking-wider mb-3">
             {frontLabel}
           </span>
-          <span className="text-2xl font-bold text-center leading-relaxed">
+          <span className="text-2xl font-bold text-t-primary text-center leading-relaxed">
             {front}
           </span>
           {!isFlipped && mode === "learn" && (
-            <span className="text-verbum-500 text-xs mt-4">Tap to reveal</span>
+            <span className="text-t-tertiary text-xs mt-4">Tap to reveal</span>
           )}
         </div>
 
         {/* Back */}
-        <div className="card-face card-back absolute inset-0 bg-verbum-800 rounded-2xl border border-gold-500/30 flex flex-col items-center justify-center p-6">
-          <span className="text-gold-400 text-xs uppercase tracking-wider mb-3">
+        <div className="card-face card-back absolute inset-0 bg-surface rounded-2xl border border-accent/30 flex flex-col items-center justify-center p-6 shadow-sm">
+          <span className="text-accent text-xs uppercase tracking-wider mb-3">
             {backLabel}
           </span>
-          <span className="text-2xl font-bold text-center text-gold-300 leading-relaxed">
+          <span className="text-2xl font-bold text-center text-accent leading-relaxed">
             {back}
           </span>
           {card.hint && (
-            <span className="text-verbum-400 text-xs mt-3 italic">
+            <span className="text-t-tertiary text-xs mt-3 italic">
               {card.hint}
             </span>
           )}

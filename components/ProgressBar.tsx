@@ -11,13 +11,13 @@ export default function ProgressBar({
 
   return (
     <div className="flex-1 flex items-center gap-3">
-      <div className="flex-1 h-1.5 bg-verbum-800 rounded-full overflow-hidden">
+      <div className="flex-1 h-1.5 bg-border rounded-full overflow-hidden">
         <div
-          className="h-full bg-gold-500 rounded-full transition-all duration-300"
+          className="h-full bg-accent rounded-full transition-all duration-300"
           style={{ width: `${pct}%` }}
         />
       </div>
-      <span className="text-xs text-verbum-400 tabular-nums">
+      <span className="text-xs text-t-tertiary tabular-nums">
         {current}/{total}
       </span>
     </div>
