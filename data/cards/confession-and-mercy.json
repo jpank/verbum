@@ -1,0 +1,29 @@
+{
+  "cards": [
+    { "id": "cm-001", "deckId": "confession-and-mercy", "polish": "sakrament pokuty", "english": "sacrament of penance" },
+    { "id": "cm-002", "deckId": "confession-and-mercy", "polish": "spowiednik", "english": "confessor (priest)" },
+    { "id": "cm-003", "deckId": "confession-and-mercy", "polish": "żal za grzechy", "english": "contrition / sorrow for sins" },
+    { "id": "cm-004", "deckId": "confession-and-mercy", "polish": "rozgrzeszenie", "english": "absolution" },
+    { "id": "cm-005", "deckId": "confession-and-mercy", "polish": "pokora", "english": "humility" },
+    { "id": "cm-006", "deckId": "confession-and-mercy", "polish": "pojednanie", "english": "reconciliation" },
+    { "id": "cm-007", "deckId": "confession-and-mercy", "polish": "przebaczenie", "english": "forgiveness" },
+    { "id": "cm-008", "deckId": "confession-and-mercy", "polish": "miłosierdzie Boże", "english": "Divine Mercy" },
+    { "id": "cm-009", "deckId": "confession-and-mercy", "polish": "grzech śmiertelny", "english": "mortal sin" },
+    { "id": "cm-010", "deckId": "confession-and-mercy", "polish": "grzech powszedni", "english": "venial sin" },
+    { "id": "cm-011", "deckId": "confession-and-mercy", "polish": "pokusa", "english": "temptation" },
+    { "id": "cm-012", "deckId": "confession-and-mercy", "polish": "upadek", "english": "fall / downfall" },
+    { "id": "cm-013", "deckId": "confession-and-mercy", "polish": "powstać z grzechu", "english": "to rise from sin" },
+    { "id": "cm-014", "deckId": "confession-and-mercy", "polish": "postanowienie poprawy", "english": "resolution to amend one's life" },
+    { "id": "cm-015", "deckId": "confession-and-mercy", "polish": "zadośćuczynienie", "english": "satisfaction / making amends" },
+    { "id": "cm-016", "deckId": "confession-and-mercy", "polish": "burza", "english": "storm" },
+    { "id": "cm-017", "deckId": "confession-and-mercy", "polish": "port", "english": "harbor / port" },
+    { "id": "cm-018", "deckId": "confession-and-mercy", "polish": "schronienie", "english": "shelter / refuge" },
+    { "id": "cm-019", "deckId": "confession-and-mercy", "polish": "wina", "english": "guilt / fault" },
+    { "id": "cm-020", "deckId": "confession-and-mercy", "polish": "oczyszczenie", "english": "purification / cleansing" },
+    { "id": "cm-021", "deckId": "confession-and-mercy", "polish": "skrucha", "english": "repentance / remorse" },
+    { "id": "cm-022", "deckId": "confession-and-mercy", "polish": "łzy", "english": "tears" },
+    { "id": "cm-023", "deckId": "confession-and-mercy", "polish": "uzdrowienie wewnętrzne", "english": "inner healing" },
+    { "id": "cm-024", "deckId": "confession-and-mercy", "polish": "ciężar grzechów", "english": "burden of sins" },
+    { "id": "cm-025", "deckId": "confession-and-mercy", "polish": "wolność od grzechu", "english": "freedom from sin" }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "cards": [
+    { "id": "wa-001", "deckId": "worship-and-adoration", "polish": "uwielbienie", "english": "praise / worship" },
+    { "id": "wa-002", "deckId": "worship-and-adoration", "polish": "adoracja", "english": "adoration" },
+    { "id": "wa-003", "deckId": "worship-and-adoration", "polish": "Najświętszy Sakrament", "english": "Blessed Sacrament" },
+    { "id": "wa-004", "deckId": "worship-and-adoration", "polish": "monstrancja", "english": "monstrance" },
+    { "id": "wa-005", "deckId": "worship-and-adoration", "polish": "tabernakulum", "english": "tabernacle" },
+    { "id": "wa-006", "deckId": "worship-and-adoration", "polish": "cisza", "english": "silence" },
+    { "id": "wa-007", "deckId": "worship-and-adoration", "polish": "kontemplacja", "english": "contemplation" },
+    { "id": "wa-008", "deckId": "worship-and-adoration", "polish": "medytacja", "english": "meditation" },
+    { "id": "wa-009", "deckId": "worship-and-adoration", "polish": "obecność Boża", "english": "God's presence" },
+    { "id": "wa-010", "deckId": "worship-and-adoration", "polish": "pieśń", "english": "hymn / song" },
+    { "id": "wa-011", "deckId": "worship-and-adoration", "polish": "psalm", "english": "psalm" },
+    { "id": "wa-012", "deckId": "worship-and-adoration", "polish": "dziękczynienie", "english": "thanksgiving" },
+    { "id": "wa-013", "deckId": "worship-and-adoration", "polish": "wdzięczność", "english": "gratitude" },
+    { "id": "wa-014", "deckId": "worship-and-adoration", "polish": "klęczeć", "english": "to kneel" },
+    { "id": "wa-015", "deckId": "worship-and-adoration", "polish": "oddać cześć", "english": "to pay homage / to worship" },
+    { "id": "wa-016", "deckId": "worship-and-adoration", "polish": "pokłon", "english": "bow / prostration" },
+    { "id": "wa-017", "deckId": "worship-and-adoration", "polish": "hymn", "english": "hymn" },
+    { "id": "wa-018", "deckId": "worship-and-adoration", "polish": "wielbić Boga", "english": "to glorify God" },
+    { "id": "wa-019", "deckId": "worship-and-adoration", "polish": "Duch Święty", "english": "Holy Spirit" },
+    { "id": "wa-020", "deckId": "worship-and-adoration", "polish": "natchnienie", "english": "inspiration" },
+    { "id": "wa-021", "deckId": "worship-and-adoration", "polish": "łaska Boża", "english": "God's grace" },
+    { "id": "wa-022", "deckId": "worship-and-adoration", "polish": "Komunia Święta", "english": "Holy Communion" },
+    { "id": "wa-023", "deckId": "worship-and-adoration", "polish": "kapłan", "english": "priest" },
+    { "id": "wa-024", "deckId": "worship-and-adoration", "polish": "lektorka / lektor", "english": "lector / reader" },
+    { "id": "wa-025", "deckId": "worship-and-adoration", "polish": "kazanie / homilia", "english": "sermon / homily" }
+  ]
+}

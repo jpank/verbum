@@ -16,6 +16,13 @@ import biblicalVerbs from "@/data/cards/biblical-verbs.json";
 import liturgicalPhrases from "@/data/cards/liturgical-phrases.json";
 import lentVocabulary from "@/data/cards/lent-vocabulary.json";
 import massResponses from "@/data/cards/mass-responses.json";
+import identityAndJourney from "@/data/cards/identity-and-journey.json";
+import confessionAndMercy from "@/data/cards/confession-and-mercy.json";
+import faithAndWitness from "@/data/cards/faith-and-witness.json";
+import familyAndParenting from "@/data/cards/family-and-parenting.json";
+import worshipAndAdoration from "@/data/cards/worship-and-adoration.json";
+import generalReligious from "@/data/cards/general-religious.json";
+import retreatPhrases from "@/data/cards/retreat-phrases.json";
 
 const ALL_CARDS: Card[] = [
   ...(biblicalNouns.cards as Card[]),
@@ -23,6 +30,13 @@ const ALL_CARDS: Card[] = [
   ...(liturgicalPhrases.cards as Card[]),
   ...(lentVocabulary.cards as Card[]),
   ...(massResponses.cards as Card[]),
+  ...(identityAndJourney.cards as Card[]),
+  ...(confessionAndMercy.cards as Card[]),
+  ...(faithAndWitness.cards as Card[]),
+  ...(familyAndParenting.cards as Card[]),
+  ...(worshipAndAdoration.cards as Card[]),
+  ...(generalReligious.cards as Card[]),
+  ...(retreatPhrases.cards as Card[]),
 ];
 
 export default function HomePage() {

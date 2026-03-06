@@ -44,6 +44,69 @@
       "cardCount": 25,
       "category": "mass",
       "icon": "\ud83d\udd6f\ufe0f"
+    },
+    {
+      "id": "identity-and-journey",
+      "name": "Identity & Journey",
+      "namePl": "To\u017csamo\u015b\u0107 i droga",
+      "description": "Identity, pilgrimage, calling & encounter",
+      "cardCount": 30,
+      "category": "vocabulary",
+      "icon": "\ud83e\udded"
+    },
+    {
+      "id": "confession-and-mercy",
+      "name": "Confession & Mercy",
+      "namePl": "Spowied\u017a i mi\u0142osierdzie",
+      "description": "Penance, forgiveness & reconciliation",
+      "cardCount": 25,
+      "category": "vocabulary",
+      "icon": "\ud83d\udc96"
+    },
+    {
+      "id": "faith-and-witness",
+      "name": "Faith & Witness",
+      "namePl": "Wiara i \u015bwiadectwo",
+      "description": "Witnessing faith in the modern world",
+      "cardCount": 30,
+      "category": "vocabulary",
+      "icon": "\ud83d\udd25"
+    },
+    {
+      "id": "family-and-parenting",
+      "name": "Family & Parenting",
+      "namePl": "Rodzina i wychowanie",
+      "description": "Family life, parenting & domestic church",
+      "cardCount": 25,
+      "category": "vocabulary",
+      "icon": "\ud83c\udfe1"
+    },
+    {
+      "id": "worship-and-adoration",
+      "name": "Worship & Adoration",
+      "namePl": "Uwielbienie i adoracja",
+      "description": "Praise, prayer & adoration vocabulary",
+      "cardCount": 25,
+      "category": "prayer",
+      "icon": "\u2728"
+    },
+    {
+      "id": "general-religious",
+      "name": "General Religious",
+      "namePl": "Og\u00f3lne religijne",
+      "description": "Essential Catholic terms & concepts",
+      "cardCount": 35,
+      "category": "vocabulary",
+      "icon": "\u2696\ufe0f"
+    },
+    {
+      "id": "retreat-phrases",
+      "name": "Retreat Phrases",
+      "namePl": "Frazy rekolekcyjne",
+      "description": "Key Scripture quotes & retreat expressions",
+      "cardCount": 30,
+      "category": "vocabulary",
+      "icon": "\ud83d\udcdc"
     }
   ]
 }

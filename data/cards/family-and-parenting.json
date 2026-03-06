@@ -1,0 +1,29 @@
+{
+  "cards": [
+    { "id": "fp-001", "deckId": "family-and-parenting", "polish": "rodzina", "english": "family" },
+    { "id": "fp-002", "deckId": "family-and-parenting", "polish": "matka", "english": "mother" },
+    { "id": "fp-003", "deckId": "family-and-parenting", "polish": "ojciec", "english": "father" },
+    { "id": "fp-004", "deckId": "family-and-parenting", "polish": "dziecko", "english": "child" },
+    { "id": "fp-005", "deckId": "family-and-parenting", "polish": "rodzic", "english": "parent" },
+    { "id": "fp-006", "deckId": "family-and-parenting", "polish": "wychowanie", "english": "upbringing / raising children" },
+    { "id": "fp-007", "deckId": "family-and-parenting", "polish": "małżeństwo", "english": "marriage" },
+    { "id": "fp-008", "deckId": "family-and-parenting", "polish": "sakrament małżeństwa", "english": "sacrament of marriage" },
+    { "id": "fp-009", "deckId": "family-and-parenting", "polish": "wierność", "english": "faithfulness / fidelity" },
+    { "id": "fp-010", "deckId": "family-and-parenting", "polish": "odpowiedzialność", "english": "responsibility" },
+    { "id": "fp-011", "deckId": "family-and-parenting", "polish": "nadzieja", "english": "hope" },
+    { "id": "fp-012", "deckId": "family-and-parenting", "polish": "mądrość", "english": "wisdom" },
+    { "id": "fp-013", "deckId": "family-and-parenting", "polish": "cierpliwość", "english": "patience" },
+    { "id": "fp-014", "deckId": "family-and-parenting", "polish": "czułość", "english": "tenderness" },
+    { "id": "fp-015", "deckId": "family-and-parenting", "polish": "troska", "english": "care / concern" },
+    { "id": "fp-016", "deckId": "family-and-parenting", "polish": "pokolenie", "english": "generation" },
+    { "id": "fp-017", "deckId": "family-and-parenting", "polish": "przekazywać wiarę", "english": "to pass on the faith" },
+    { "id": "fp-018", "deckId": "family-and-parenting", "polish": "wspólna modlitwa", "english": "praying together" },
+    { "id": "fp-019", "deckId": "family-and-parenting", "polish": "błogosławieństwo rodzicielskie", "english": "parental blessing" },
+    { "id": "fp-020", "deckId": "family-and-parenting", "polish": "Święta Rodzina", "english": "Holy Family" },
+    { "id": "fp-021", "deckId": "family-and-parenting", "polish": "więź", "english": "bond / connection" },
+    { "id": "fp-022", "deckId": "family-and-parenting", "polish": "poświęcenie", "english": "devotion / dedication" },
+    { "id": "fp-023", "deckId": "family-and-parenting", "polish": "wzór", "english": "role model / example" },
+    { "id": "fp-024", "deckId": "family-and-parenting", "polish": "ochrona", "english": "protection" },
+    { "id": "fp-025", "deckId": "family-and-parenting", "polish": "dom", "english": "home / house" }
+  ]
+}
