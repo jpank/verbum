@@ -21,6 +21,12 @@ const modes: { mode: StudyMode; icon: string; label: string; desc: string }[] = 
     label: "Reverse",
     desc: "English → Polish for active recall",
   },
+  {
+    mode: "match",
+    icon: "🔗",
+    label: "Match",
+    desc: "Connect Polish words to English",
+  },
 ];
 
 interface ModeSelectorProps {

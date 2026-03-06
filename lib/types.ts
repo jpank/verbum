@@ -34,7 +34,7 @@ export interface StudySession {
   mode: StudyMode;
 }
 
-export type StudyMode = "learn" | "test" | "reverse";
+export type StudyMode = "learn" | "test" | "reverse" | "match";
 
 export interface UserProgress {
   currentStreak: number;

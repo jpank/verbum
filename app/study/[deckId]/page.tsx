@@ -8,6 +8,7 @@ import RatingButtons from "@/components/RatingButtons";
 import MultipleChoice from "@/components/MultipleChoice";
 import ProgressBar from "@/components/ProgressBar";
 import SessionSummary from "@/components/SessionSummary";
+import MatchGame from "@/components/MatchGame";
 import EmptyState from "@/components/EmptyState";
 import { StudyMode } from "@/lib/types";
 
@@ -28,6 +29,8 @@ export default function StudyPage() {
     progress,
     results,
     startSession,
+    completeSession,
+    deckCards,
     isLoading,
     isEmpty,
     deckName,
@@ -61,6 +64,17 @@ export default function StudyPage() {
         results={results}
         onRestart={() => startSession(mode)}
         onHome={() => router.push("/")}
+      />
+    );
+  }
+
+  if (mode === "match" && phase === "studying") {
+    return (
+      <MatchGame
+        deckCards={deckCards}
+        deckId={deckId}
+        onComplete={completeSession}
+        onBack={() => router.push("/")}
       />
     );
   }

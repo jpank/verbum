@@ -90,7 +90,7 @@ export function useStudySession(deckId: string) {
       setPhase("studying");
       setMode(selectedMode);
 
-      if (selectedMode !== "learn") {
+      if (selectedMode !== "learn" && selectedMode !== "match") {
         const card = ALL_CARDS.find((c) => c.id === q[0])!;
         setChoices(generateChoices(card, ALL_CARDS, selectedMode));
       }
@@ -163,6 +163,14 @@ export function useStudySession(deckId: string) {
     [currentIndex, queue, advance]
   );
 
+  const completeSession = useCallback(
+    (sessionResults: { cardId: string; correct: boolean }[]) => {
+      setResults(sessionResults);
+      setPhase("summary");
+    },
+    []
+  );
+
   const selectChoice = useCallback(
     async (selected: string) => {
       if (!currentCard) return;
@@ -203,6 +211,8 @@ export function useStudySession(deckId: string) {
           : 0,
     },
     startSession,
+    completeSession,
+    deckCards,
     isLoading,
     isEmpty,
     deckName:
